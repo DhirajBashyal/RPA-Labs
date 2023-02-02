@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:38:51.367Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RX908llFrbjIA5oyW2ji" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:43:42.047Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zjUbeIipamg8QJh2BbC4" version="20.8.15" type="github">
   <diagram id="aJZ2tYiW6Hd4tB7oSwzl" name="Page-1">
     <mxGraphModel dx="806" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,17 +31,17 @@
         <mxCell id="3ZlpCiCXG9NVD4qCDfqB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ZlpCiCXG9NVD4qCDfqB-3" target="3ZlpCiCXG9NVD4qCDfqB-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-3" value="Evaluation&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="546" y="240" width="150" height="110" as="geometry" />
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-3" value="Model Train" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="245" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-10" value="Training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="60" height="20" as="geometry" />
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-11" value="Decision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-11" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="320" width="50" height="20" as="geometry" />
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ZlpCiCXG9NVD4qCDfqB-19" target="3ZlpCiCXG9NVD4qCDfqB-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-19" value="Decision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="265" width="120" height="60" as="geometry" />
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-19" value="Model Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
