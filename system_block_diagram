@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T16:12:09.006Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iBv0G48amhQq7DlGpIJo" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T16:16:02.377Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PaTWQGBUhmcTPvGEfIJp" version="20.8.15" type="github">
   <diagram id="aJZ2tYiW6Hd4tB7oSwzl" name="Page-1">
     <mxGraphModel dx="792" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,15 @@
               <mxPoint x="720" y="40" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-28" value="Input Stage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-29" value="Output Stage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="375" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-30" value="&amp;nbsp;Intermediate Stages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
