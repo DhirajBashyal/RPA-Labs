@@ -1,17 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:30:20.487Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="b3fhTiE9iqHKvM2UoyV9" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:38:51.367Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RX908llFrbjIA5oyW2ji" version="20.8.15" type="github">
   <diagram id="aJZ2tYiW6Hd4tB7oSwzl" name="Page-1">
     <mxGraphModel dx="806" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0rRRmyaLr3rQCRqngWRv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0rRRmyaLr3rQCRqngWRv-1" target="0rRRmyaLr3rQCRqngWRv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rRRmyaLr3rQCRqngWRv-1" value="FMRI Scanner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0rRRmyaLr3rQCRqngWRv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0rRRmyaLr3rQCRqngWRv-2" target="3ZlpCiCXG9NVD4qCDfqB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rRRmyaLr3rQCRqngWRv-2" value="FMRI Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ZlpCiCXG9NVD4qCDfqB-1" target="3ZlpCiCXG9NVD4qCDfqB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-1" value="Data Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ZlpCiCXG9NVD4qCDfqB-2" target="3ZlpCiCXG9NVD4qCDfqB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-2" value="Feature Extraction (CNN Model)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ZlpCiCXG9NVD4qCDfqB-3" target="3ZlpCiCXG9NVD4qCDfqB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-3" value="Evaluation&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="240" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-10" value="Training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-11" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZlpCiCXG9NVD4qCDfqB-19" value="Decision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="265" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
